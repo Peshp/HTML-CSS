@@ -1,0 +1,39 @@
+body{
+    background-color: #e4e978;
+}
+
+header{
+    background-color: #f2f4c0;
+}
+
+main{    
+    background-color: #f2f4c0;
+}
+
+footer{
+    background-color: #f2f4c0;
+}
+
+header h1{
+    padding: 5px;
+}
+
+main h1{
+    font-style: italic;
+}
+
+main article h2{
+    font-style: italic;
+}
+
+main article{
+    font-style: italic;
+}
+
+footer section h2{
+    font-style: italic;
+}
+
+footer section p{
+    font-style: italic;
+}
