@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url('https://fonts.googleapis.com/css?family=');
+}
+
+body{
+    font-family: Montserrat, sans-serif;
+    padding: 16px;
+}
+
+th{
+    background-color: lightblue;
+}
+
+th, td{
+    width: 144px;
+    height: 32px;
+    border: #ccc solid 1px;
+    padding-left: 5px;
+}
+

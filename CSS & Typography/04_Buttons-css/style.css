@@ -1,0 +1,35 @@
+
+h2{
+    font-family: 'Nunito Sans', serif;
+}
+
+button:hover{
+    background: blue;
+    color: white;
+}
+
+button{
+    padding: 5px;
+    margin: 5px;
+    background: none;   
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button.icon{
+    background: red;
+    color: white;
+}
+
+button.icon:hover{
+    background: black;
+}
+
+button.fill{
+    background: red;
+    color: white;
+}
+
+button.fill:hover{
+    background: black;
+}
