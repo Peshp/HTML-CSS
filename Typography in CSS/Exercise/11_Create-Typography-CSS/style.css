@@ -1,0 +1,32 @@
+body{
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+article{
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1{
+    font-family: Georgia, serif;
+}
+
+table, th, td{
+   border: 1px solid rgb(221,221,221);
+   font-style: italic;
+}
+
+tr th{
+    background-color: rgb(221,221,221);
+}
+
+section{
+    font-family: bold, serif;
+    font-weight: bold;
+    margin-left: 30px;
+    font-style: italic;
+    padding-left: 60px;
+    border-left: 2px solid rgb(221,221,221);
+}
