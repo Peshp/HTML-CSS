@@ -1,0 +1,33 @@
+main{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 40px;    
+}
+
+div:hover{
+    background-color: #2A4C68;
+}
+
+.left{
+    background-color: #0a2c48;   
+    border: 1px solid saddlebrown;
+    border-radius: 4px;
+}
+
+.center{
+    background-color: #0a2c48;
+    border: 1px solid saddlebrown;
+    border-radius: 4px;
+}
+
+.right{
+    background-color: #0a2c48;
+    border: 1px solid saddlebrown;
+    border-radius: 4px;
+}
+
+h3, p{
+    padding-left: 25px;
+    font-size: 15px;   
+}
