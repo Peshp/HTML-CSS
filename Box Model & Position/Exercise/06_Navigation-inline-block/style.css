@@ -1,0 +1,35 @@
+body{
+    margin-left: 50px;
+    font-family: Helvetica, sans-serif;
+}
+
+header{
+    margin-top: 80px;   
+    color: lightgray;
+    border-bottom: 2px solid lightgray;
+}
+
+a{
+    text-decoration: none;   
+    color: lightgray;
+}
+
+li{
+    padding-left: 15px;
+}
+
+nav li{
+    display: inline-block;
+    text-decoration: none;
+    position: relative;
+    top: -46px;
+    left: 248px;
+}
+
+main{
+    margin-top: 50px;
+    width: 60%px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
