@@ -1,0 +1,89 @@
+body{
+    padding-left: 70px;
+}
+
+main{
+    width: 40rem;
+}
+
+p.first{
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+p.first{
+    border-bottom: 5px solid black;
+    padding-bottom: 10px;
+}
+
+header nav li{
+    display: inline;
+    padding-left: 30px;
+    position: relative;
+    left: 45rem;
+    bottom: 5.5rem;
+}
+
+h1, h2, h3{
+    font-family: Georgia, serif;
+    font-size: 1em/1.2;
+}
+
+
+img[alt~="escalator"] {
+    float: right;
+    width: 150px;
+    position: relative;
+    bottom: 5px;
+}
+
+aside{
+    display: inline;    
+    position: absolute;
+    left: 60rem;
+    bottom: 180px;
+    width: 250px;
+}
+
+a{
+    text-decoration: none;
+}
+
+p.left{
+    width: 49%;
+    position: relative;
+    bottom: 10rem;
+}
+
+div{
+    width: 40%;
+    display: block;
+    padding-top: 5px;
+    margin-left: 20rem;
+    padding-left: 20px;
+    border-left: 2px solid pink;
+}
+
+p.right-down{
+    width: 50%;
+    display: block;
+    margin-left: 10rem;
+}
+
+p.up{
+    position: relative;
+    bottom: 150px;
+}
+
+
+.up-second{
+    position: relative;
+    bottom: 150px;
+}
+
+.up-second img{
+    float: left;
+    margin-right: 7px;
+    border: 2px solid black;
+    padding: 3px;
+}
