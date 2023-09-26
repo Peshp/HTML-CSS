@@ -1,0 +1,12 @@
+ul{
+    list-style-type: none;
+}
+
+a:hover{
+    border-radius: 50%;
+}
+
+a{
+    font-size: 25px;
+    padding-left: 50px;
+}
