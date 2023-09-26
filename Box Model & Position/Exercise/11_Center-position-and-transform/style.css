@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(238, 238, 238);
+    font-family: Georgia, serif;
+    font-size: 1em/1.2;
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    position: absolute;
+    top: 40px;
+    left: 360px;
+    box-shadow: 0 0 200px black;
+}
+
+img{
+    position: absolute;
+    width: 400px;
+}
+
+div:last-of-type{
+    width: 400px;
+    height: 170px;
+    box-shadow: 0 0 200px black;
+    position: relative;
+    top: 249px;
+}
+
+h3, p{
+    position: relative;
+    top: 12px;
+    left: 1rem;
+}
+
+a{
+    background-color: rgb(0, 153, 0);
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 18rem;
+    text-decoration: none;
+    padding: 8px;
+}
