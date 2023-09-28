@@ -11,3 +11,15 @@
   font-size: 30px;
   flex-basis: 120px;
 }
+
+#one{
+  flex-shrink: 0;
+}
+
+#box2{
+  flex-shrink: 1;
+}
+
+#box3{
+  flex-shrink: 2;
+}
