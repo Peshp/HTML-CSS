@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+.conteiner{
+    max-width: 65vw;
+    display: flex;
+}
+
+.conteiner section{
+    display: flex;   
+}
+
+.conteiner .week .item{
+    width: 20%;
+    display: block;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.conteiner .week{
+    width: 75%;
+    flex-wrap: wrap;
+}
+
+.conteiner .week .item:nth-child(1),
+.conteiner .week .item:nth-child(7){
+    width: 100%;
+}
+
+.conteiner .week .item:nth-child(8),
+.conteiner .week .item:nth-child(9){
+    width: 50%;
+}
+
+.conteiner .notes{
+    width: 25%;
+    display: flex;
+    flex-direction: column;  
+}
+
+.conteiner .note{   
+    border: 1px solid black;
+}
+
+.conteiner .notes .note{
+    height: 50%;
+    text-align: center;
+}
+
