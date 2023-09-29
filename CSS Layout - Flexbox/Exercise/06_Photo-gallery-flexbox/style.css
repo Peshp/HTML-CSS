@@ -1,0 +1,18 @@
+body, nav, li{
+    display: flex;
+}
+
+.gallery nav{
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; 
+    gap: 40px;
+}
+
+li{
+    border: 2px solid white;
+}
+
+img{
+    width: 120px;
+}
