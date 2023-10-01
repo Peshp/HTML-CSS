@@ -1,18 +1,29 @@
-body, nav, li{
+html{
+    box-sizing: border-box;
+}
+
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+
+body, ul, li{
     display: flex;
 }
 
-.gallery nav{
+.gallery ul{
     justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap; 
-    gap: 40px;
+    flex-wrap: wrap;
 }
 
-li{
-    border: 2px solid white;
+.gallery ul li{
+    width: auto;
+    border: 5px solid black;
+    box-shadow: 0 0 5px 5px grey;
+    padding: 5px, 16px;
+    justify-content: center;
+    align-items: center;
 }
 
 img{
-    width: 120px;
+    object-fit: contain;
 }
