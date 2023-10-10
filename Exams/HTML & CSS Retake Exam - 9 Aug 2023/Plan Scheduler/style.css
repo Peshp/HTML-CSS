@@ -1,0 +1,26 @@
+header .navigation{
+    background-color: #ffffff;
+}
+
+header .navigation ul{
+    /* position: relative; */
+    /* top: 5px; */
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+header .navigation ul li a{
+    text-decoration: none;
+    color: #434d5c;
+}
+
+header button{
+    position: relative;
+    left: 55rem;
+    bottom: 35px;
+    height: 30px;
+    width: 80px;
+    background-color: white;
+    border: 1px solid black;
+}
