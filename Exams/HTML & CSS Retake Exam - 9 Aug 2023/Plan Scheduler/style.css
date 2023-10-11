@@ -1,10 +1,10 @@
 header .navigation{
     background-color: #ffffff;
+    padding: 0;
+    margin: 0;
 }
 
 header .navigation ul{
-    /* position: relative; */
-    /* top: 5px; */
     list-style: none;
     display: flex;
     gap: 30px;
@@ -15,12 +15,54 @@ header .navigation ul li a{
     color: #434d5c;
 }
 
-header button{
-    position: relative;
-    left: 55rem;
-    bottom: 35px;
-    height: 30px;
+img{
+    width: 100%;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text{
+    position: absolute;
+    bottom: 50px;
+    left: 180px;
+}
+
+.text h1{
+    width: 20rem;
+    font-weight: bold;
+}
+
+.text p{
+    width: 28rem;
+    color: wheat;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.text button{
+    background-color: black;
     width: 80px;
-    background-color: white;
-    border: 1px solid black;
+    height: 30px;
+    border: none;
+    color: white;
+    font-size: 10px;
+}
+
+.happy-clients{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.happy-clients p{
+    width: 16rem;
+    text-align: center;
+    font-size: 15px;
+}
+
+.happy-clients .first{
+    font-size: 35px;
 }
