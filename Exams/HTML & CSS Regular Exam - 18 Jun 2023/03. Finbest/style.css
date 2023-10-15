@@ -1,0 +1,85 @@
+body{
+    font-family: 'Inter', sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.home-links{
+    padding-left: 120px;
+    padding-top: 10px;
+}
+
+.home-links ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.home-links ul li{
+    font-size: 20px;
+    padding-right: 30px;
+}
+
+#login{
+    padding-left: 80rem;
+}
+
+.home-links ul li button{
+    width: 80px;
+    height: 40px;
+}
+
+.home{
+    background-color: #ade2df;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.home h1{
+    font-size: 70px;
+    padding-left: 400px;
+}
+
+.home p{
+    font-size: 20px;
+    padding-left: 740px;
+}
+
+.home-buttons{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.home-buttons button{
+    background-color: #000000;
+    color: white;
+    font-size: 18px;
+    width: 250px;
+    height: 60px;
+}
+
+.home-stats{
+    padding: 80px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /*justify-content: space-evenly;*/
+    gap: 150px;
+}
+
+.stat1 p, .stat2 p, .stat3 p{
+    width: 300px;
+}
+
+img{
+    float: left;
+}
+
+.centered-contrnt{
+    width: 600px;
+}
+
+#title{
+    font-size: 50px;
+}
+
