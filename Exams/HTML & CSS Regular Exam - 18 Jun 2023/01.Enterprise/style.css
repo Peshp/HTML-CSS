@@ -1,0 +1,71 @@
+body{
+    font-family: 'Inter', sans-serif;
+    line-height: 10px;
+}
+
+main{
+    padding-top: 50px;
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 55px;
+}
+
+.card{
+    width: 50rem;
+    padding-bottom: 50px;
+    box-shadow: 0 8px 6px 4px grey;
+}
+
+img{
+    width: 50rem;
+    height: 30rem;
+}
+
+img[alt="men"]{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+.enterprice{
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.lorem{
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.big-lorem{
+    padding-top: 20px;
+    margin-left: 50px;
+    width: 43rem;
+    font-size: 23px;
+    line-height: 23px;
+    padding-bottom: 40px;
+    border-bottom: 2px solid black;
+}
+
+.avater{
+    margin-left: 50px;
+}
+
+.avater p{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.avater img{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+span{
+    display: inline-block;
+    margin-left: 440px;
+    font-size: 20px;
+    font-weight: lighter;
+}
