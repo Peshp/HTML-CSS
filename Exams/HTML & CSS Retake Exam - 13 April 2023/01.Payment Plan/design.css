@@ -1,0 +1,52 @@
+body{
+    font-family: Inter;
+}
+
+main{
+    background-image: url("image/background.jpg");
+    padding-bottom: 100px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.card{
+    background-color: white;
+    margin-top: 20px;
+    margin-top: 50px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.card p, .card h1{
+    padding-left: 50px;
+    padding-right: 5px;
+}
+
+.title{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+h1{
+    font-size: 50px;
+}
+
+#first{
+    padding-bottom: 10px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+    width: 150px;
+    height: 45px;
+}
