@@ -1,0 +1,42 @@
+header{
+    background-color: darkblue;
+    padding-bottom: 8em;
+}
+
+.header nav ul li img{
+    width: 5em;
+    padding-right: 110em;
+}
+
+.header nav ul {
+    display: flex;
+    justify-content: end;
+    gap: 24px;
+    padding-top: 15px;
+}
+
+.header nav ul li {
+    color: white;
+    list-style: none;
+    padding-right: 20px;
+}
+
+.header nav ul li.right{
+    padding-right: 100px;
+}
+
+.header-text{
+    padding-left: 8em;
+}
+
+.header-text .title p{
+    color: white;
+    font-size: 50px;
+    line-height: 8px;
+}
+
+.header-text .text p{
+    color: white;
+    font-size: 20px;
+    width: 30em;
+}
