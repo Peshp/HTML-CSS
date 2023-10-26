@@ -1,0 +1,21 @@
+.main-titles{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    border-bottom: 1px solid black;
+    padding-bottom: 5em;
+}
+
+p.title{
+    font-size: 40px;
+}
+
+p.text{
+    width: 32em;
+}
+
+button{
+    width: 10em;
+    height: 3em;
+    margin-top: 20px;
+}
