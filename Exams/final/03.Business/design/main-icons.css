@@ -1,0 +1,12 @@
+.main-icons{
+    display: flex;
+    justify-content: center;
+    gap: 10em;
+    padding-top: 50px;
+}
+
+.main-icons img {
+    background-color: #dddddd;
+    width: 8em;
+    border-radius: 50%;
+}
