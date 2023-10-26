@@ -1,0 +1,10 @@
+.main-titles2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-titles2 p.text{
+    text-align: center;
+    width: 60em;
+}
