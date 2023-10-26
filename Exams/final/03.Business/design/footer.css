@@ -1,0 +1,29 @@
+footer{
+    background-color: #171720;
+}
+
+.footer{
+    color: white;
+    display: flex;
+    gap: 60px;
+    padding-left: 10em;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.footer li{
+    list-style: none;
+    padding-bottom: 20px;
+}
+
+li.first{
+    padding-bottom: 30px;
+}
+
+.copyright p{
+    color: white;
+    padding-bottom: 50px;
+    padding-left: 12em;
+    padding-top: 20px;
+    border-top: 1px solid #202028;
+}
