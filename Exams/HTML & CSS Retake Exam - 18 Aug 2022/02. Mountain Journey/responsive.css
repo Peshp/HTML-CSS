@@ -1,0 +1,44 @@
+@media (max-width: 600px) {
+    header nav{
+        display: block;
+    }
+
+    header nav img{
+        padding-left: 160px;
+        padding-bottom: 20px;
+    }
+
+    header nav ul li{
+        display: block;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    .header-title h1{
+        font-size: 38px;
+    }
+
+    .team-description ul{
+        justify-content: center;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    .team-description ul li img{
+        width: 221.1px;
+    }
+
+    .choose-us ul{
+        flex-direction: column;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .blog-list {
+        flex-direction: column;
+        gap: 30px;
+        margin-bottom: 45px;
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+}
