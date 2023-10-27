@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce3843ca-a65d-4de2-94f0-9ae3f1f6372e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../HTML &amp; CSS Exam - 30 October 2021/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML &amp; CSS Regular Exam - 18 Jun 2023/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML &amp; CSS Regular Exam - 18 Jun 2023/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML &amp; CSS Retake Exam - 13 April 2023/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML &amp; CSS Retake Exam - 13 April 2023/.idea/HTML &amp; CSS Retake Exam - 13 April 2023.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML &amp; CSS Retake Exam - 13 April 2023/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML &amp; CSS Retake Exam - 13 April 2023/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2X4B3gWyBKY5lvlBjSqHpK0VmAd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/anton/Programming/HTML-CSS/Exams/HTML & CSS Retake Exam - 21 December 2022",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML &amp; CSS Retake Exam - 18 Aug 2022/Exams/HTML &amp; CSS Retake Exam - 9 Aug 2023/Forum/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce3843ca-a65d-4de2-94f0-9ae3f1f6372e" name="Changes" comment="" />
+      <created>1697878273246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697878273246</updated>
+      <workItem from="1697878274276" duration="5459000" />
+      <workItem from="1697893055839" duration="39000" />
+      <workItem from="1697898536184" duration="80000" />
+      <workItem from="1697898616942" duration="98000" />
+      <workItem from="1697898721696" duration="506000" />
+      <workItem from="1697899376823" duration="51000" />
+      <workItem from="1697906653823" duration="577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
