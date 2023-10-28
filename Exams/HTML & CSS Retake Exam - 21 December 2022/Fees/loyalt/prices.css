@@ -1,0 +1,51 @@
+.prices{
+    background-color: #54546d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.price-card{
+    text-align: center;
+    background-color: white;
+    padding: 15px 120px;
+    line-height: 5px;
+}
+
+p.tax{
+    color: white;
+    font-size: 40px;
+}
+
+p.big{
+    font-size: 30px;
+}
+
+p.small{
+    padding-top: 5px;
+    font-size: 22px;
+}
+
+.price-color{
+    display: block;
+    background: rgb(11,162,69);
+    background: linear-gradient(90deg, rgba(11,162,69,1) 0%, rgba(37,183,93,1) 50%, rgba(69,209,123,1) 100%);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.price-card button{
+    width: 10em;
+    height: 50px;
+    background-color: #9a5dc6;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
